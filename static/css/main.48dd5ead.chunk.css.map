@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Counter/Counter.scss"],"names":[],"mappings":"AAAA,OACE,aAAc,CACd,kBAAmB,CACnB,WAAY,CACZ,WAAY,CACZ,cAAe,CACf,kBAAmB","file":"main.48dd5ead.chunk.css","sourcesContent":["button {\n  display: block;\n  margin-bottom: 10px;\n  width: 150px;\n  height: 40px;\n  font-size: 20px;\n  border-radius: 10px;\n}\n"]}
